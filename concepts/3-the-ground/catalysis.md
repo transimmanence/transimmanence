@@ -29,7 +29,7 @@ Catalysis is a key aspect of the transimmanent approach to action in the world:
 * **Dancing with the Unfolding:** Catalysis is about working *with* the natural flow of events, rather than trying to force things to happen.
 * **Compassionate Action:** Catalysis is a form of compassionate action, motivated by a desire to support the well-being and growth of others.
 * **Interconnectedness:** Catalysis recognizes that we are all interconnected, and that our actions can have a ripple effect, influencing the unfolding in ways we may not fully anticipate.
-* **Letting Go:** Catalysis requires letting go of the need to control outcomes, trusting in the inherent potential of the beings and systems involved.
+* **[Letting Go](../2-the-how/letting-go.md):** Catalysis requires letting go of the need to control outcomes, trusting in the inherent potential of the beings and systems involved.
 * **Co-creation:** Catalysis is a form of co-creation, working *with* the unfolding to bring about positive change.
 
 Catalysis is an invitation to move beyond a purely instrumental view of action, to embrace a more subtle, more nuanced, more *facilitative* approach. It's about being a *presence* that enables transformation, rather than a *force* that imposes it. It's about *allowing the unfolding to unfold*.
