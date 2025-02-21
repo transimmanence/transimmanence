@@ -51,7 +51,7 @@ Letting Go is a central practice within the transimmanent framework, intimately 
 * **[The Gap](../3-the-ground/the-gap.md):** Letting Go is about embracing The Gap, the unresolvable distinction, the fundamental ambiguity of existence.
 * **Un-knowing:** Letting Go is an expression of un-knowing, a willingness to *not know*, to remain open to the mystery.
 * **[Reticence](../4-the-attitude/reticence.md):** Letting Go often involves *reticence*, a holding back, a refraining from premature action or judgment.
-* **Dancing with the Paradox:** Letting Go is about embracing the paradox of *surrender and agency*, of *acceptance and action*.
+* **[Dancing with the Paradox](dancing-with-the-paradox.md):** Letting Go is about embracing the paradox of *surrender and agency*, of *acceptance and action*.
 
 Letting Go is not a one-time event, but a *continuous practice*. It's a way of being in the world, a way of navigating the unfolding with *grace, resilience, and openness*.
 

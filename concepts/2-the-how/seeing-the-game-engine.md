@@ -43,8 +43,8 @@ The "game engine" is not a monolithic entity, but a dynamic, interconnected netw
 * **Constructed Reality:** This is the foundation. Recognizing that our experience is *constructed* is the first step towards seeing *how* it is constructed.
 * **Un-knowing:** "Seeing the game engine" requires a willingness to embrace uncertainty, to acknowledge the limits of our knowledge, to remain open to the mystery.
 * **[The Gap](../3-the-ground/the-gap.md):** The "game engine" can be seen as an attempt to "fill The Gap," to provide a sense of order and meaning in the face of fundamental ambiguity. Recognizing this allows us to *hold* The Gap more consciously.
-* **Dancing with the Paradox:** "Seeing the game engine" often involves recognizing paradoxes, contradictions, and the limitations of binary thinking.
+* **[Dancing with the Paradox](dancing-with-the-paradox.md):** "Seeing the game engine" often involves recognizing paradoxes, contradictions, and the limitations of binary thinking.
 * **[Letting Go](letting-go.md):** Seeing the "game engine" can help us to let go of fixed beliefs, rigid identities, and the need for absolute control.
-* **Co-creation:** Recognizing the "game engine" empowers us to become more conscious *co-creators* of reality, to participate in the unfolding with greater awareness and intention.
+* **[Co-creation](co-creation.md):** Recognizing the "game engine" empowers us to become more conscious *co-creators* of reality, to participate in the unfolding with greater awareness and intention.
 
 "Seeing the game engine" is not about *escaping* the game, but about *playing it more consciously*. It's about recognizing the limitations of our current understanding while remaining fully engaged with the *unfolding*. It's about *waking up within the dream*.

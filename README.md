@@ -56,11 +56,11 @@ These modes are not techniques or methods to be applied, but rather *ways of par
 |----------------------|-------------|
 | **[Seeing the Game Engine](concepts/2-the-how/seeing-the-game-engine.md)** | Cultivating an awareness of the underlying structures, assumptions, and limitations that shape our experience; recognizing the "rules of the game" while still participating in it. |
 | **[Dancing with the Paradox](concepts/2-the-how/dancing-with-the-paradox.md)** | Engaging with reality in a way that embraces uncertainty, ambiguity, and contradiction; moving fluidly between different perspectives, without clinging to fixed positions. |
-| **Radical Questioning** | Continuously questioning all assumptions, beliefs, and conditioning; challenging the limitations of language and thought; seeking a deeper understanding beyond conceptual frameworks. |
-| **Compassionate Action** | Acting in the world from a place of empathy, understanding, and a commitment to the well-being of all beings; recognizing the interconnectedness of all actions and their consequences. |
-| **Present Moment Awareness** | Being fully present in the current moment, without judgment, interpretation, or attachment to past or future; experiencing reality directly, without the mediation of thought. |
+| **[Radical Questioning](concepts/2-the-how/radical-questioning.md)** | Continuously questioning all assumptions, beliefs, and conditioning; challenging the limitations of language and thought; seeking a deeper understanding beyond conceptual frameworks. |
+| **[Compassionate Action](concepts/2-the-how/compassionate-action.md)** | Acting in the world from a place of empathy, understanding, and a commitment to the well-being of all beings; recognizing the interconnectedness of all actions and their consequences. |
+| **[Present Moment Awareness](concepts/2-the-how/present-moment-awareness.md)** | Being fully present in the current moment, without judgment, interpretation, or attachment to past or future; experiencing reality directly, without the mediation of thought. |
 | **[Letting Go](concepts/2-the-how/letting-go.md)** | The practice of releasing attachments to outcomes, beliefs, identities, and control; surrendering to the flow of the unfolding; embracing impermanence. The giving up of assumptions. |
-| **Co-creation** | Actively participating in the shaping of reality through conscious intention, while acknowledging that we are not the sole creators, but rather *co-creators* with the unfolding itself. |
+| **[Co-creation](concepts/2-the-how/co-creation.md)** | Actively participating in the shaping of reality through conscious intention, while acknowledging that we are not the sole creators, but rather *co-creators* with the unfolding itself. |
 
 ## Underlying Qualities (The "Ground")
 

@@ -41,13 +41,13 @@ The metaphor of "dancing" is crucial here. It implies:
 
 "Dancing with the Paradox" is a central *mode of engagement* within the transimmanent framework, closely linked to other key concepts:
 
-* **The Gap:** Paradox arises from The Gap, the unresolvable distinction, the fundamental ambiguity at the heart of existence. Dancing with the paradox is about *embracing the gap*, not trying to fill it.
+* **[The Gap](../3-the-ground/the-gap.md):** Paradox arises from The Gap, the unresolvable distinction, the fundamental ambiguity at the heart of existence. Dancing with the paradox is about *embracing the gap*, not trying to fill it.
 * **Un-knowing:** This mode of engagement requires a willingness to *un-know*, to let go of fixed beliefs and expectations, to remain open to the mystery.
 * **Constructed Reality:** Recognizing the constructed nature of reality allows us to see how seemingly contradictory perspectives can co-exist.
 * **Interconnectedness:** Paradox often reveals the *interdependence* of seemingly opposing forces, highlighting the underlying unity of all things.
-* **Letting Go:** Dancing with the paradox requires *letting go* of the need for control, for certainty, for fixed meanings.
-* **Seeing the Game Engine:** Awareness of the "game engine" helps us to understand how paradoxes arise from the limitations of our conceptual frameworks.
-* **Reticence:** A dance requires knowing *when* to move, and *when* to be still.
+* **[Letting Go](letting-go.md):** Dancing with the paradox requires *letting go* of the need for control, for certainty, for fixed meanings.
+* **[Seeing the Game Engine](seeing-the-game-engine.md):** Awareness of the "game engine" helps us to understand how paradoxes arise from the limitations of our conceptual frameworks.
+* **[Reticence](../4-the-attitude/reticence.md):** A dance requires knowing *when* to move, and *when* to be still.
 
 "Dancing with the Paradox" is not about *resolving* paradoxes, but about *living with them*, *learning from them*, and *allowing them to inform our actions and our understanding*. It's about embracing the *dynamic, fluid, and ever-changing nature of reality*. It's about *becoming the dance itself*. What step would you take if the dance had no wrong moves?
 

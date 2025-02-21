@@ -35,7 +35,7 @@ To *be* resonance is to:
 Resonance is a core "underlying quality" within the transimmanent framework, deeply connected to other key concepts:
 
 * **Interconnectedness:** Resonance *is* the felt experience of interconnectedness.
-* **Love:** Resonance is a manifestation of love, the recognition of the inherent worth and beauty of all beings.
+* **[Love](love.md):** Resonance is a manifestation of love, the recognition of the inherent worth and beauty of all beings.
 * **[Efflorescence](efflorescence.md):** Being resonance allows for the *efflorescence* of our own potential and the potential of others.
 * **[Luminescence](luminescence.md):** Resonance allows us to perceive the *luminescence*, the inherent radiance, of being.
 * **[Catalysis](catalysis.md):** Being resonance allows us to act as a *catalyst* for transformation, creating the conditions for positive change.

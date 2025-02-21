@@ -28,8 +28,8 @@ Luminescence is a core aspect of the transimmanent understanding, connecting to 
 
 * **Interconnectedness:** Luminescence reveals the underlying unity of all things, the shared "light" of being that connects us all.
 * **Constructed Reality:** Recognizing luminescence helps us to see beyond the constructed categories and judgments that often obscure the inherent beauty of the world.
-* **Present Moment Awareness:** Luminescence is most readily experienced in the present moment, when we are fully present and attentive to the *is-ness* of things.
-* **Compassionate Action:** Seeing the inherent luminescence in all beings fosters compassion, respect, and a commitment to the well-being of all.
+* **[Present Moment Awareness](../2-the-how/present-moment-awareness.md):** Luminescence is most readily experienced in the present moment, when we are fully present and attentive to the *is-ness* of things.
+* **[Compassionate Action](../2-the-how/compassionate-action.md):** Seeing the inherent luminescence in all beings fosters compassion, respect, and a commitment to the well-being of all.
 * **Un-knowing:** Luminescence points towards the *mystery* of existence, the *un-nameable* quality that transcends all our concepts and definitions.
 
 Luminescence is an invitation to *see* the world, and ourselves, with new eyes. It's a call to appreciate the inherent beauty, the radiant *is-ness*, that is always present, waiting to be *revealed*.

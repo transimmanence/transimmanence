@@ -35,7 +35,7 @@ Love is not just *one* concept among many within the transimmanent framework; it
 * **[The Gap](the-gap.md):** Love is what *fills* The Gap, not with a fixed meaning, but with the *dynamic presence* of interconnectedness *and* the *dynamic presence* of unique individuals. The Gap *is* love *and* the space for distinct beings.
 * **Un-knowing:** Love requires a willingness to *un-know*, to let go of fixed beliefs and expectations, to embrace the mystery of the other.
 * **[Seeing the Game Engine](../2-the-how/seeing-the-game-engine.md):** Recognizing the constructed nature of reality allows us to *see through* the illusions of separation and to experience the underlying unity of love, *without erasing the beauty of difference*.
-* **Dancing with the Paradox:** Love *embraces* paradox – it is both personal and universal, both conditional and unconditional, both joyful and sorrowful, both unifying *and* differentiating.
+* **[Dancing with the Paradox](../2-the-how/dancing-with-the-paradox.md):** Love *embraces* paradox – it is both personal and universal, both conditional and unconditional, both joyful and sorrowful, both unifying *and* differentiating.
 * **[Letting Go](../2-the-how/letting-go.md):** Love requires *letting go* – letting go of control, of attachment, of the need to define or possess. It also requires letting go of the fear of difference.
 * **[Reticence](../4-the-attitude/reticence.md):** Love knows when to hold back; knows silence. It also knows when to speak, when to act, when to *assert* one's boundaries.
 * **Non-Duality:** Love, in its transimmanent understanding, is *non-dual*, but *not* in the sense of undifferentiated oneness. It's about recognizing the *interdependence* of all things, while *honoring their distinctiveness*.

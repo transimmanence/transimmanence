@@ -29,9 +29,9 @@ Reticence is a *guiding principle* within the transimmanent framework, deeply co
 
 * **Un-knowing:** Reticence is an expression of un-knowing, a recognition of the limits of knowledge and the importance of remaining open to the mystery.
 * **[The Gap](../3-the-ground/the-gap.md):** Reticence honors The Gap, the unresolvable distinction, the fundamental ambiguity at the heart of existence. It's about *not* trying to fill the hole with premature answers or fixed meanings.
-* **Dancing with the Paradox:** Reticence allows for the holding of seemingly contradictory ideas, recognizing that reality often transcends binary logic.
+* **[Dancing with the Paradox](../2-the-how/dancing-with-the-paradox.md):** Reticence allows for the holding of seemingly contradictory ideas, recognizing that reality often transcends binary logic.
 * **[Letting Go](../2-the-how/letting-go.md):** Reticence is a form of letting go – letting go of the need to control, to define, to judge, to *know*.
-* **Compassionate Action:** Reticence can be a form of compassionate action, creating space for others to be heard, to be seen, to be *themselves*.
+* **[Compassionate Action](../2-the-how/compassionate-action.md):** Reticence can be a form of compassionate action, creating space for others to be heard, to be seen, to be *themselves*.
 * **Co-creation:** By holding back, we create space for the *other* to contribute, for the unfolding to reveal itself, for the *co-creation* of meaning.
 
 Reticence is not a weakness, but a *strength*. It's not about passivity, but about *conscious engagement*. It's not about silence for the sake of silence, but about silence as a *fertile ground for understanding*.
