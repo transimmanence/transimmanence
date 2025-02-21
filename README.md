@@ -55,11 +55,11 @@ These modes are not techniques or methods to be applied, but rather *ways of par
 | Concept <br/> `__________________________` | Description <br/> `…` |
 |----------------------|-------------|
 | **[Seeing the Game Engine](concepts/2-the-how/seeing-the-game-engine.md)** | Cultivating an awareness of the underlying structures, assumptions, and limitations that shape our experience; recognizing the "rules of the game" while still participating in it. |
-| **Dancing with the Paradox** | Engaging with reality in a way that embraces uncertainty, ambiguity, and contradiction; moving fluidly between different perspectives, without clinging to fixed positions. |
+| **[Dancing with the Paradox](concepts/2-the-how/dancing-with-the-paradox.md)** | Engaging with reality in a way that embraces uncertainty, ambiguity, and contradiction; moving fluidly between different perspectives, without clinging to fixed positions. |
 | **Radical Questioning** | Continuously questioning all assumptions, beliefs, and conditioning; challenging the limitations of language and thought; seeking a deeper understanding beyond conceptual frameworks. |
 | **Compassionate Action** | Acting in the world from a place of empathy, understanding, and a commitment to the well-being of all beings; recognizing the interconnectedness of all actions and their consequences. |
 | **Present Moment Awareness** | Being fully present in the current moment, without judgment, interpretation, or attachment to past or future; experiencing reality directly, without the mediation of thought. |
-| **Letting Go** | The practice of releasing attachments to outcomes, beliefs, identities, and control; surrendering to the flow of the unfolding; embracing impermanence. The giving up of assumptions. |
+| **[Letting Go](concepts/2-the-how/letting-go.md)** | The practice of releasing attachments to outcomes, beliefs, identities, and control; surrendering to the flow of the unfolding; embracing impermanence. The giving up of assumptions. |
 | **Co-creation** | Actively participating in the shaping of reality through conscious intention, while acknowledging that we are not the sole creators, but rather *co-creators* with the unfolding itself. |
 
 ## Underlying Qualities (The "Ground")
@@ -71,8 +71,8 @@ These qualities are not attributes to be acquired, but rather *inherent aspects 
 | **Silence** | The space beyond words, beyond concepts, beyond thought; the fertile emptiness from which all things arise and to which they return; the ground of being. |
 | **Un-knowing** | The embrace of uncertainty, the recognition of the limits of knowledge, the willingness to remain open to the mystery of existence. |
 | **[The Gap](concepts/3-the-ground/the-gap.md)** | The unresolvable distinction, the gap between concept and reality, the fundamental ambiguity at the heart of existence; the space of *potential*. |
-| **Love** | The felt experience of interconnectedness, the recognition of the inherent worth and beauty of all beings, the driving force of the unfolding. Manifests through *resonance*, *connection*, *et al*. |
-| **Resonance** | A deeper, more fundamental *vibration in harmony*. The experience of shared being, of recognizing the underlying unity that connects all things, not as a concept, but as a *felt sense*. The *hum* of the universe. Not about *finding* resonance, but about *being* resonance. | 
+| **[Love](concepts/3-the-ground/love.md)** | The felt experience of interconnectedness, the recognition of the inherent worth and beauty of all beings, the driving force of the unfolding. Manifests through *resonance*, *connection*, *et al*. |
+| **[Resonance](concepts/3-the-ground/resonance.md)** | A deeper, more fundamental *vibration in harmony*. The experience of shared being, of recognizing the underlying unity that connects all things, not as a concept, but as a *felt sense*. The *hum* of the universe. Not about *finding* resonance, but about *being* resonance. | 
 | **Connection** | The active, conscious aspect of resonance. The reaching out, the *engaging*, the *sharing* of information, understanding, and experience. The joy of dialogue, of co-creation. | 
 | **[Efflorescence](concepts/3-the-ground/efflorescence.md)** | The radial, expansive, unpredictable unfolding of inherent potential. |
 | **[Luminescence](concepts/3-the-ground/luminescence.md)** | The inherent beauty, the *is-ness* of existence. The act of *seeing*. |
