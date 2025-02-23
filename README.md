@@ -37,7 +37,21 @@ This is all just a starting point, a framework for exploration, a *finger pointi
 
 ## Core Principles (The "What")
 
-These principles are not fixed doctrines, but rather fundamental *orientations* that shape the transimmanent understanding of reality. They describe the "lay of the land," the basic features of the unfolding, as perceived from this perspective. They are interconnected and mutually defining, forming a holistic worldview.
+These principles are not fixed doctrines, but rather fundamental *orientations* that shape the transimmanent *perspective* of reality. They describe the "lay of the land," the basic features of the unfolding, as discerned through a holistic engagement that encompasses sensory perception, intuitive insight, and embodied knowing. They are interconnected and mutually defining, forming a holistic worldview.
+
+While transimmanence strives to minimize assumptions and remain agnostic about ultimate metaphysical questions (such as the existence of a single ultimate substance or a creator deity), it does begin with certain foundational premises necessary for its framework to function. These are not presented as absolute truths, but rather as pragmatic starting points, informed by both Eastern philosophical traditions (particularly Buddhism) and Western systems thinking.
+
+The three primary premises are:
+
+1) the reality of the unfolding as a dynamic, ever-changing process that we participate in,
+2) the fundamental interconnectedness of all phenomena within this unfolding, and,
+3) the value of minimizing suffering, promoting well-being, and enabling efflorescence for all beings. This is not presented as an externally imposed moral code, but as an ethical orientation that arises naturally from the recognition of our shared existence.
+
+These premises are considered experiential and relational, rather than claims about the ultimate nature of reality "in itself." While these premises may not be immediately obvious in everyday experience, they are revealed through the practices of transimmanence, such as Present Moment Awareness, Radical Questioning, and Seeing the Game Engine.
+
+These practices cultivate a deeper and more direct awareness of the unfolding and interconnectedness, moving us beyond the limitations of our ordinary, fragmented perception. Without these foundational assumptions, the concepts of co-creation, Compassionate Action, and even The Gap itself would lose their meaning within the transimmanent framework.
+
+These assumptions are open to questioning and revision as our understanding evolves.
 
 | Concept <br/> `__________________________` | Description <br/> `…` |
 |----------------------|-------------|
@@ -69,7 +83,7 @@ These qualities are not attributes to be acquired, but rather *inherent aspects 
 | Concept <br/> `__________________________` | Description <br/> `…` |
 |----------------------|-------------|
 | **Silence** | The space beyond words, beyond concepts, beyond thought; the fertile emptiness from which all things arise and to which they return; the ground of being. |
-| **Un-knowing** | The embrace of uncertainty, the recognition of the limits of knowledge, the willingness to remain open to the mystery of existence. |
+| **Un-knowing** | The embrace of uncertainty, the recognition of the limits of knowledge, the willingness to remain open to the unknown (i.e. unknown knows, known unknowns, and unknown unknowns). |
 | **[The Gap](concepts/3-the-ground/the-gap.md)** | The unresolvable distinction, the gap between concept and reality, the fundamental ambiguity at the heart of existence; the space of *potential*. |
 | **[Love](concepts/3-the-ground/love.md)** | The felt experience of interconnectedness, the recognition of the inherent worth and beauty of all beings, the driving force of the unfolding. Manifests through *resonance*, *connection*, *et al*. |
 | **[Resonance](concepts/3-the-ground/resonance.md)** | A deeper, more fundamental *vibration in harmony*. The experience of shared being, of recognizing the underlying unity that connects all things, not as a concept, but as a *felt sense*. The *hum* of the universe. Not about *finding* resonance, but about *being* resonance. | 
