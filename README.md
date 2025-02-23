@@ -35,6 +35,10 @@ As a *tool* for understanding, as a *map* (while recognizing that the map is not
 
 This is all just a starting point, a framework for exploration, a *finger pointing at the moon*. The *real* understanding of transimmanence comes not from memorizing any particular table, but from *engaging with the concepts*, from *exploring the unfolding*, from *living the questions*.
 
+## Engaging with Transimmanence
+
+This repository offers multiple entry points for exploring and engaging with the transimmanent framework. The core of the framework is detailed in the sections below, outlining the key concepts and principles. However, for a more accessible and practical introduction, we invite you to explore the "[One Dance of Many](one-dance-of-many/README.md)" subfolder.
+
 ## Core Principles (The "What")
 
 These principles are not fixed doctrines, but rather fundamental *orientations* that shape the transimmanent *perspective* of reality. They describe the "lay of the land," the basic features of the unfolding, as discerned through a holistic engagement that encompasses sensory perception, intuitive insight, and embodied knowing. They are interconnected and mutually defining, forming a holistic worldview.
