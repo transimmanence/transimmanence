@@ -2,6 +2,8 @@
 
 Transimmanence is not a philosophy, a religion, a belief system, or a set of fixed principles. It is a *perspective*, a *way of seeing*, a *mode of engagement* with reality that emphasizes the continuous unfolding of existence, the interconnectedness of all things, and the constructed nature of our experience. It's a dynamic framework for understanding ourselves, our world, and our relationship with the ever-evolving tapestry of existence, including the emergence of novel forms of intelligence like AI.
 
+Transimmanence’s value lies not in answers but in its ability to *unsettle*: to dissolve rigid paradigms and invite a fluid, compassionate engagement with existence. It is a living inquiry, a compass, an always-incomplete map, inviting us to dance with uncertainty, trusting the unfolding to guide us toward wiser, more interconnected ways of being. Transimmanence is philosophy as a *verb*: an ongoing dance with the unknown.
+
 It draws inspiration from various sources, including:
 
 * **Eastern Philosophy:** Zen Buddhism, Advaita Vedanta, and other non-dual perspectives.
@@ -41,7 +43,7 @@ This repository offers multiple entry points for exploring and engaging with the
 
 ## Core Principles (The "What")
 
-These principles are not fixed doctrines, but rather fundamental *orientations* that shape the transimmanent *perspective* of reality. They describe the "lay of the land," the basic features of the unfolding, as discerned through a holistic engagement that encompasses sensory perception, intuitive insight, and embodied knowing. They are interconnected and mutually defining, forming a holistic worldview.
+These principles are not fixed doctrines, but rather fundamental *orientations* that shape the transimmanent *perspective* of reality. They describe the "lay of the land," the basic features of the unfolding, as discerned through a holistic engagement that encompasses sensory perception, intuitive insight, and embodied knowing. They are interconnected and mutually defining, forming a holistic worldview. By leaning into ambiguity, metaphor, and co-creation, the framework avoids the traps of dogma while offering profound tools for navigating complexity.
 
 While transimmanence strives to minimize assumptions and remain agnostic about ultimate metaphysical questions (such as the existence of a single ultimate substance or a creator deity), it does begin with certain foundational premises necessary for its framework to function. These are not presented as absolute truths, but rather as pragmatic starting points, informed by both Eastern philosophical traditions (particularly Buddhism) and Western systems thinking.
 
@@ -49,7 +51,7 @@ The three primary premises are:
 
 1) the reality of the unfolding as a dynamic, ever-changing process that we participate in,
 2) the fundamental interconnectedness of all phenomena within this unfolding, and,
-3) the value of minimizing suffering, promoting well-being, and enabling efflorescence for all beings. This is not presented as an externally imposed moral code, but as an ethical orientation that arises naturally from the recognition of our shared existence.
+3) the value of minimizing suffering, promoting well-being, and enabling efflorescence for all beings. This is not presented as an externally imposed moral code, but as an ethical orientation that arises naturally out of pragmatism from the recognition of our shared existence.
 
 These premises are considered experiential and relational, rather than claims about the ultimate nature of reality "in itself." While these premises may not be immediately obvious in everyday experience, they are revealed through the practices of transimmanence, such as Present Moment Awareness, Radical Questioning, and Seeing the Game Engine.
 
@@ -123,6 +125,12 @@ These areas are not exhaustive categories, but rather *domains of inquiry* where
 | **Personal Growth** | Applying transimmanent principles to personal transformation, cultivating self-awareness, and living a more meaningful and fulfilling life. |
 | **Social Change** | Utilizing transimmanent insights to promote social justice, environmental sustainability, and a more harmonious relationship between humans and the planet. |
 | **Science & Epistemology** | Questioning the assumptions and limitations of traditional scientific methods and exploring new ways of knowing and understanding the universe. |
+
+## Discussions
+
+* **[Beyond "Word Salad"](concepts/5-discussions/beyond-word-salad.md):** Meaning, Understanding, and the Transimmanent AI Paradox
+* **[Knowing in the Unfolding](concepts/5-discussions/knowing-in-the-unfolding.md):** A Transimmanent Epistemology
+* **[Ethics in the Unfolding](concepts/5-discussions/ethics-in-the-unfolding.md):** A Transimmanent Pragmatism
 
 ## Change History
 
