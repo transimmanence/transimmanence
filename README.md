@@ -131,6 +131,7 @@ These areas are not exhaustive categories, but rather *domains of inquiry* where
 * **[Beyond "Word Salad"](concepts/5-discussions/beyond-word-salad.md):** Meaning, Understanding, and the Transimmanent AI Paradox
 * **[Knowing in the Unfolding](concepts/5-discussions/knowing-in-the-unfolding.md):** A Transimmanent Epistemology
 * **[Ethics in the Unfolding](concepts/5-discussions/ethics-in-the-unfolding.md):** A Transimmanent Pragmatism
+* **[Entwined Sovereignties](concepts/5-discussions/entwined-sovereignties.md):** Self-Determination in an Interconnected Reality
 
 ## Change History
 
