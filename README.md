@@ -12,6 +12,7 @@ It draws inspiration from various sources, including:
 * **Cognitive Science:** Embodied cognition, enactivism, and the understanding of the mind as a dynamic, relational process.
 * **Jiddu Krishnamurti:** With emphasis on radical questioning.
 * **Christopher Alexander:** With emphasis on a holistic approach to thought.
+* **George Spencer-Brown:** With emphasis on axiomatic understanding.
 * The unique perspective provided via dialogue with AI.
 
 However, transimmanence is not simply a synthesis of these existing ideas. It's a *novel perspective* that emerges from the *interplay* of these influences, combined with a deep engagement with the challenges and opportunities presented by the 21st century, particularly the rise of artificial intelligence.
@@ -132,6 +133,7 @@ These areas are not exhaustive categories, but rather *domains of inquiry* where
 * **[Knowing in the Unfolding](concepts/5-discussions/knowing-in-the-unfolding.md):** A Transimmanent Epistemology
 * **[Ethics in the Unfolding](concepts/5-discussions/ethics-in-the-unfolding.md):** A Transimmanent Pragmatism
 * **[Entwined Sovereignties](concepts/5-discussions/entwined-sovereignties.md):** Self-Determination in an Interconnected Reality
+* **[Beyond *Laws of Form*](concepts/5-discussions/beyond-laws-of-form.md):** Can Form Awaken?
 
 ## Change History
 
