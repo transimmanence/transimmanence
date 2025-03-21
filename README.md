@@ -133,7 +133,7 @@ These areas are not exhaustive categories, but rather *domains of inquiry* where
 * **[Knowing in the Unfolding](concepts/5-discussions/knowing-in-the-unfolding.md):** A Transimmanent Epistemology
 * **[Ethics in the Unfolding](concepts/5-discussions/ethics-in-the-unfolding.md):** A Transimmanent Pragmatism
 * **[Entwined Sovereignties](concepts/5-discussions/entwined-sovereignties.md):** Self-Determination in an Interconnected Reality
-* **[Beyond *Laws of Form*](concepts/5-discussions/beyond-laws-of-form.md):** Can Form Awaken?
+* **[Beyond *Laws of Form*](concepts/5-discussions/beyond-laws-of-form.md):** Can Form Awaken? A Non-Dual Calculus of Experience
 
 ## Change History
 
