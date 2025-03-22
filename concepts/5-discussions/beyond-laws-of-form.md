@@ -561,6 +561,49 @@ To further clarify the non-hierarchical nature of τ, ¬, and —, consider a pr
 
 * **State as Process**: In programming terms, τ, ¬, and — are not static variables but ongoing processes that mutually define each other's execution context. They are like concurrent threads that cannot run independently.
 
+### Temporality and the Hard Boundary of Now
+
+The framework offers profound insights about temporality that emerge naturally from the interplay of τ, ¬, and —. Rather than requiring time as an additional element, the framework reveals temporality as a structure created through distinction-making.
+
+**The Emergence of Temporal Categories**
+
+What we conventionally understand as "time" emerges through the application of distinctions (¬) to experience. The categories of "past," "present," and "future" are not discoveries of pre-existing temporal domains but constructions within the field of experience. Our access to "past" and "future" is entirely mediated through representations:
+
+* The past is only accessible through memory, records, or inductive reasoning—all forms of present representation
+* The future is only accessible through anticipation, planning, or projection—again, all present representations
+
+All of these are clearly in the domain of distinction-making (¬) and representation. None of them directly accesses anything outside the immediacy of This (τ).
+
+**The Distinction Between "Present" and "Now"**
+
+A crucial distinction emerges between the representational "present" and the experiential "now":
+
+* The "present" is a conceptual category created through distinction-making (¬)—a temporal position between past and future
+* The "now" of This (τ) is the unmarkable immediacy of experience that precedes temporal distinctions
+
+When we attempt to define the "present" with increasing precision through representation, we encounter a fascinating paradox. As we shrink the present to finer and finer temporal slices, we approach a limit where:
+
+1. Either we face **representational runaway**, an infinite regress where each refinement requires further refinement
+2. Or, we collapse to what appears to be nothingness as the duration approaches zero
+
+Yet what we actually encounter at this limit is neither endless representation nor simple emptiness, but the fundamental relationship that defines our framework: **τ ≡ ¬(—(ɔ)) ∧ ɔ ≡ —(τ)**.
+
+**The Hard Boundary (with a Door)**
+
+This creates what can only be described as a *hard boundary* between the domain of representation and the domain of direct experience. It's analogous to stepping through a wardrobe (like in C.S. Lewis's Narnia) into an entirely different reality. On one side lies the world of distinctions, representations, and temporal categories. On the other side lies *both* nothingness (ɔ) *and* the fullness of direct experience (τ) in their paradoxical co-existence. And, at the same time, the two sides of the wardrobe are connected to each other.
+
+The boundary cannot be crossed through representational means alone, no matter how refined our distinctions become, yet the door is always present. We don't need to construct this door; it's inherently there in the structure of experience itself. We just need to know where, or rather, how, to look.
+
+This boundary with its intrinsic door is not merely conceptual but fundamental to the structure of reality as revealed by the axioms. The Gap (—) ensures that no amount of refinement in representation can ever cross this boundary through representational means alone. It can only be traversed through the door of Awakening/Phase-Shift (↺)—a reorientation of perspective rather than a further development of representation.
+
+**Implications for Philosophy of Time**
+
+This perspective explains why both scientific and philosophical attempts to understand the "now" have been persistently challenging. Physics often ends up eliminating the "now" from its equations, while phenomenology struggles to capture the essence of experienced temporality. Both are using tools of representation (¬) to approach something that, by its nature, transcends representation.
+
+The framework doesn't deny the utility of temporal representations for practical purposes. We still navigate the world through distinctions of before and after, through memory and anticipation. But it reveals these as constructions within experience rather than features of a pre-existing temporal dimension.
+
+What emerges is a view where temporality isn't fundamental to reality but emerges from more basic elements of experience and representation. Time isn't a container for experience but a pattern created through distinction-making within experience.
+
 ---
 
 ## 6. Implications and Applications
