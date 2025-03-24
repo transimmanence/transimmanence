@@ -610,15 +610,19 @@ We can show the domain-crossing path by an example as follows, let's examine the
 - A monk asked Joshu, "Does a dog have Buddha-nature?"
 - Joshu replied, "Mu!"
 
-1. **τ (Buddha-nature):** "Buddha-nature," in the Zen context, represents the unmarkable context of direct experience, the potential for awakening that is inherent in all beings. This aligns with our definition of τ. It is *not* a "thing" or a "property" that can be grasped conceptually.
+This exchange can be mapped onto our axiomatic framework, revealing its underlying structure and demonstrating how it enacts The Gap (—):
 
-2. **—(τ) (The Inherent Limitation of Representation):** Even *before* we introduce the specific question about the dog, there's already a fundamental gap between Buddha-nature (τ) and any attempt to represent it. This is the first application of The Gap, —(τ), acknowledging the inherent limitation of *any* conceptualization of τ.
+1. **τ (Buddha-nature):** "Buddha-nature," in the Zen context, signifies the unmarkable context of direct experience, the potential for awakening inherent in all beings. This aligns with our definition of τ, representing that which is *prior to* and *inseparable from* all distinctions.
 
-3. **¬(—(τ)) (Distinction within the Realm of Representation):** The question, "Does a dog have Buddha-nature?", operates entirely within the realm of distinction (¬). It introduces the concepts of "dog" and "Buddha-nature" (as words/ideas) and seeks to establish a relationship between them. This entire inquiry takes place *within* the realm of representation, which is *already* separated from τ by The Gap. This is represented as ¬(—(τ)) – making distinctions within the inherently limited representation of τ.
+2. **—(τ) (The Inherent Limitation):** Even *before* the specific question arises, there exists a fundamental gap between Buddha-nature (τ) and any attempt to represent it. This is the initial application of The Gap, —(τ), acknowledging the inherent limitations of conceptualizing τ.
 
-4. **—(¬(—(τ))) (The Koan as a Second Application of The Gap):** The *entire koan*, including the question and the response, functions as a *second* application of The Gap. It's a meta-commentary on the limitations of the previous step. It highlights that even our attempts to relate concepts *within the realm of representation* are *still* subject to The Gap. The koan exposes the futility of trying to find a conceptual answer to a question that transcends concepts.
+3. **¬(—(τ)) (Distinction within Limitation):** The question, "Does a dog have Buddha-nature?", operates entirely within the realm of distinction (¬). It introduces the concepts of "dog" and "Buddha-nature" (as linguistic constructs) and attempts to relate them, seeking to establish a relationship between them. This entire inquiry takes place *within* the realm of representation, a realm already separated from τ by The Gap. This is represented as ¬(—(τ)) – making distinctions within the inherently limited representation of τ.
 
-5. **ɔ (Mu! - The Collapse of the Conceptual Framework):** The response "Mu!" (無), meaning "no," "not," "nothing," or "without," is *not* a simple negation within the framework of the question. It's not just saying, "No, a dog doesn't have Buddha-nature." It's a pointer to the *unmarked state* (ɔ), to the complete absence of all distinctions. It's the *collapse* of the entire conceptual framework, the recognition that the question itself is based on a false premise – the attempt to apply distinctions (¬) to something that is beyond distinctions (τ). This is the result of the double application of The Gap: **ɔ ≡ —(¬(—(τ)))**, which, as shall be established, is a direct consequence of the framework's axioms. The koan, therefore, illustrates a pre-existing principle, rather than introducing a new one retrospectively.
+4. **—(¬(—(τ))) (The Koan as The Gap Itself):** The *entire koan*, the question *and* the response "Mu!", together function as a second, and crucial, application of The Gap. However, and importantly, "Mu!" is *not simply* the result (ɔ); it is, in this context, the *enactment* and *embodiment* of The Gap (—) *itself*.
+    * **"Mu!" as the Refusal to Represent:** "Mu!" is the *refusal* to answer within the terms of the question. It's the active rejection of the attempt to use distinctions (¬) to grasp something that transcends distinctions (τ).
+    *  **The Koan's Dynamic Process:** The koan is a *dynamic process*. The question establishes the conceptual framework (¬(—(τ))), and "Mu!" *disrupts* that framework through the forceful application of —. The entire process can be formally represented as —(¬(—(τ))).
+
+5. **ɔ as the *Potential* Result:** As Mumon's commentary elucidates, "Mu!" is *not* simply nothingness. It's *not* merely the negation of "yes." It *points towards* the unmarked state (ɔ), but it's more than that. It's the *experiential realization* of the limitations of representation, the *breakthrough* to a perspective beyond conceptual thought. This *potential* collapse to the unmarked state is triggered within the monk *if*, and only if, he truly encounters the meaning of "Mu!", representing an instance of Awakening/Phase-Shift (↺). The *entire process* is formally represented as —(¬(—(τ))), with the result, that is, the *potential* collapse to the unmarked state, represented as **ɔ ≡ —(¬(—(τ)))**, which, as shall be established, is a direct consequence of the framework's axioms. The koan, therefore, illustrates a pre-existing principle, rather than introducing a new one into the framework.
 
 **Why Only a Half-Existent Möbius-Topology Works:**
 
@@ -892,7 +896,9 @@ We can then write our principal equations to represent The Twist (the dynamic, M
 
 Or, alternatively, by simple substitution:
 
-**τ ≡ ¬(—(τ))**
+**τ ≡ ¬(—(ɔ))** [starting point, from above]<br/>
+**τ ≡ ¬(—(—(τ)))** [by substitution]<br/>
+**τ ≡ ¬(—(τ))** [by idempotency]
 
 > **Read as**: Direct experience ("This") emerges through making distinctions within the inherent limitations of our representations of direct experience ("This") itself.
 
@@ -1554,7 +1560,7 @@ The transimmanent framework doesn't claim superiority over historical wisdom tra
 
 However, it maintains that specific metaphysical formulations remain representations subject to The Gap, not exceptions to it. This choice mirrors the Awakening/Phase-Shift (↺) at the heart of the framework—the shift from frantically trying to establish metaphysical foundations to abiding in the direct experience of reality with full awareness of both distinctions and their limitations.
 
-As one might playfully summarize: "If you don't want any deities, whether beings or structures, it's Möbius strips all the way down and you go mad, or you accept The Gap and chill out."
+As one might playfully summarize: "If you don't want any deities, whether beings or structures, it's Möbius strips all the way down and you go mad, or you accept The Gap and chill out." (of course, there is always pragmatism, phenomenology, etc. — transimmanence is not the only game in town, and acknowledges this through The Gap!)
 
 The transimmanent framework thus doesn't claim to have solved the fundamental questions of reality, but rather to have transformed them. It offers not answers, but a different relationship to the questions themselves—one that honors both the power of distinction and the limitations of representation, both the clarity of form and the mystery of formlessness, both the rigor of logic and the immediacy of experience. Has it done this perfectly? No. Will it ever? Probably not, because The Gap will always continue to shine.
 
