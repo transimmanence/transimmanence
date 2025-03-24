@@ -236,7 +236,7 @@ Furthermore, ↺ is not meant to describe a mystical or supernatural state. It's
 
 ↺ thus enacts Spencer-Brown's "training of TARATI": shifting from analyzing distinctions (¬) to embodying the immediacy of This (τ). This transformation aligns with his insight that "in reality, nothing exists" and that "the universe is simply what would appear if it could" (LoF 1994, p. viii, p. x). Where formal analysis fragments reality into concepts, Awakening/Phase-Shift reveals the unmarkable immediacy from which all distinctions arise.
 
-### Phenomenological Resonances
+## 5.1. Phenomenological Resonances and Eastern Parallels
 
 While our framework emerges primarily from Spencer-Brown's formal approach, it finds remarkable resonances with key concepts in phenomenological traditions:
 
@@ -254,7 +254,7 @@ Similarly, our framework resonates with key concepts from Eastern philosophical 
 
 By approaching these issues through the lens of formal systems theory rather than through purely philosophical analysis—whether Western phenomenology or Eastern contemplative traditions—our framework offers new possibilities for bridging formal and experiential approaches to understanding consciousness and reality.
 
-### Analogies
+## 5.2. Analogies for Understanding
 
 **Analogy A:**
 
@@ -297,7 +297,7 @@ The cook who understands The Double Gap is *empowered* to create something new a
 
 Here, this Double Gap highlights that The Gap is not just about the difference between a map and the territory, but also about the difference between an *intention* and its *manifestation*. Even when aiming at a *future* possibility (the intended dish), The Gap remains unbridgeable.
 
-### Formal Connections
+## 5.3. Formal Mathematical Connections
 
 There is a potential to "map" some of the concepts to category/topos theory as follows. These analogies are intended to aid understanding for those familiar with these mathematical/logical concepts. They are *not* meant to be exact equivalences, but rather illustrative parallels, in the hope of generating further discussion as food-for-thought:
 
@@ -413,7 +413,7 @@ This insight aligns with contemplative traditions that emphasize clear awareness
 
 The Awakening/Phase-Shift (↺) can thus be understood as the (process of) cultivation of clear awareness that allows us to experience actuality directly. The boundary quality (—) of awareness allows it to be simultaneously intimate with both the context (τ) and forms (¬) without being reducible to either. Thus, if one is clearly aware, one is not stuck in one's head (of conscious appearances), but is out there in the context that *is*, dancing with τ in the unfolding.
 
-### Non-Duality Without Monism
+## 5.4. Non-Duality Without Monism
 
 A critical point in the transimmanent framework is its careful navigation between dualism and monism. Unlike systems that collapse all distinctions into an ultimate monistic substance or void, transimmanence preserves the dynamic interplay of form (¬) and formlessness (τ) without privileging either. Consider:
 
@@ -529,7 +529,7 @@ Mirroring the book cover of the 1994 edition of *Laws of Form*, where the two ax
 
 This Möbius topology explains why the framework resists classification in conventional philosophical terms. It embodies a "twistedness" that prevents collapse into monism while avoiding the limitations of dualism.
 
-### The Half-Existent Möbius-Topology: Beyond Representation
+## 5.5. The Half-Existent Möbius-Topology: Beyond Representation
 
 Our Möbius-like topology presents a profound paradox that transcends conventional mathematical frameworks. However, there is a catch. Unlike a standard Möbius strip that exists in its entirety but has peculiar properties, our topology is literally half-nonexistent. One "half" corresponds to the formal system (¬ and its operations, co-arising with τ), while the other "half" corresponds to ɔ *exactly* - which is literally nothing whatsoever.
 
@@ -555,7 +555,7 @@ Consider the implications:
 
 This suggests something remarkable: our framework doesn't merely describe reality; it enacts the fundamental structure of reality through its very conceptualization. The half-existent topology exists precisely *in* The Gap between Reality and Possibility – not just theorizing about this boundary but actually embodying it. It manifests the paradoxical nature of existence itself – simultaneously present and absent, formed and formless, representable and beyond representation. By incorporating *both* form and literal nothingness in a coherent conceptual structure, it captures the dynamics of reality more authentically than any fully representable system could. The framework performs what it describes – a self-referential loop where the map includes its own limitations as part of its territory.
 
-### Stability-Amid-Recursion: The Unique Property of The Half-Existent Möbius-Topology
+## 5.6. Stability-Amid-Recursion: The Unique Property of The Half-Existent Möbius-Topology
 
 Recursive systems typically face one of two problematic fates: infinite regress or complete collapse. The transimmanent framework, however, exhibits a remarkable property we can call "stability-amid-recursion" – a balanced state where self-reference neither spirals endlessly nor consumes itself into oblivion.
 
@@ -677,7 +677,7 @@ In essence, the half-existent topology offers a meta-formal model for how system
 
 This understanding of stability-amid-recursion offers a path beyond the traditional dichotomy of foundations versus infinite regress. It suggests that the most stable systems are not those built on unshakable foundations, but those that integrate their own limitations as essential components of their structure.
 
-### The Dependency Chain: Half-Existence All The Way Down
+## 5.7. The Dependency Chain: Half-Existence All The Way Down
 
 A profound question emerges from our framework: if consciousness operates as a half-existent system, what does this imply about the levels of reality that causally support it? Must half-existence extend throughout the entire causal chain leading to consciousness?
 
@@ -804,7 +804,7 @@ Our analysis of the Dependency Chain, demonstrating the impossibility of half-ex
 
 This provides a rigorous, axiomatic foundation for the framework's claim to "non-duality without monism," transcending the traditional philosophical dichotomies of "All is One" and "All is Empty." The framework, therefore, offers not just a new model of consciousness, but a new metaphysical perspective on the nature of existence, one where limitations and incompleteness are not defects to be overcome, but *constitutive features* of reality's dynamic structure.
 
-### Further Axiomatic Work: Deriving Key Relationships
+## 5.8. Further Axiomatic Work: Deriving Key Relationships
 
 The core axioms, defining the interplay of τ, ¬, —, and ɔ, establish a foundation for deriving further relationships that illuminate the structure of the transimmanent framework. Let us examine these derivations and their implications.
 
