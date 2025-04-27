@@ -42,6 +42,10 @@ This is all just a starting point, a framework for exploration, a *finger pointi
 
 This repository offers multiple entry points for exploring and engaging with the transimmanent framework. The core of the framework is detailed in the sections below, outlining the key concepts and principles. However, for a more accessible and practical introduction, we invite you to explore the "[One Dance of Many](one-dance-of-many/README.md)" subfolder.
 
+## Non-Foundational Ontological Axiomatization
+
+The Transimmanent Framework (TF) is non-foundationally and ontologically axiomatized in the paper "[Can Form Exist? A Transimmanent Meta-Ontology of Distinction, Limitation, and Experience](concepts/5-discussions/beyond-laws-of-form.md)". This primary document establishes the minimal necessary structural conditions for stable, non-foundational existence, culminating in the derivation of the Half-Existent Twisted Liminal Ontoform (TLO). The remainder of TF in the broader repository *indirectly* builds upon, and *around*, this axiomatic basis, elaborating its phenomenological, philosophical, and comparative implications.
+
 ## Core Principles (The "What")
 
 These principles are not fixed doctrines, but rather fundamental *orientations* that shape the transimmanent *perspective* of reality. They describe the "lay of the land," the basic features of the unfolding, as discerned through a holistic engagement that encompasses sensory perception, intuitive insight, and embodied knowing. They are interconnected and mutually defining, forming a holistic worldview. By leaning into ambiguity, metaphor, and co-creation, the framework avoids the traps of dogma while offering profound tools for navigating complexity.
