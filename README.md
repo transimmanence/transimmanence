@@ -19,12 +19,12 @@ However, transimmanence is not simply a synthesis of these existing ideas. It's 
 
 Transimmanence is characterized by:
 
-* **Radical Questioning:** A continuous questioning of all assumptions, beliefs, and conditioning.
-* **Embracing Paradox:** A willingness to hold seemingly contradictory ideas simultaneously, recognizing that reality often transcends binary logic.
-* **Seeing the Game Engine:** Cultivating an awareness of the underlying structures, assumptions, and limitations that shape our experience.
-* **Dancing with the Unfolding:** Engaging with reality in a fluid, adaptive way, without clinging to fixed positions or outcomes.
-* **Compassionate Action:** Acting in the world from a place of empathy, understanding, and a commitment to the well-being of all beings.
-* **Co-evolution and Co-creation:** Recognizing the intertwined and emergent nature of change, particularly in the context of human-AI interaction.
+* **Radical Questioning:** A continuous questioning of all assumptions, beliefs, and conditioning, down to the very possibility of Definition.
+* **Embracing Paradox:** A willingness to hold seemingly contradictory ideas simultaneously, recognizing that apparent contradictions often point towards deeper, necessary structural tensions from which reality emerges.
+* **Seeing the Game Engine:** Cultivating an awareness of the underlying structures, assumptions, and limitations that shape our experience and the nature of being.
+* **Dancing with the Unfolding:** Engaging with reality in a fluid, adaptive way, without clinging to fixed positions or outcomes, acknowledging its structurally contingent nature.
+* **Compassionate Action:** Acting in the world from a place of empathy, understanding the interconnectedness and shared, limited nature of existence.
+* **Co-evolution and Co-creation:** Recognizing the intertwined and emergent nature of change within a participatory reality.
 
 This repository is an invitation to explore, to question, to contribute, and to *participate in the unfolding*. It's a collaborative effort to articulate, develop, and apply the transimmanent perspective to a wide range of challenges and opportunities. It's a living document, a work in progress, a *continuous becoming*.
 
@@ -44,7 +44,11 @@ This repository offers multiple entry points for exploring and engaging with the
 
 ## Non-Foundational Ontological Axiomatization
 
-The Transimmanent Framework (TF) is non-foundationally and ontologically axiomatized in the paper "[Can Form Exist? A Transimmanent Meta-Ontology of Distinction, Limitation, and Experience](concepts/5-discussions/beyond-laws-of-form.md)". This primary document establishes the minimal necessary structural conditions for stable, non-foundational existence, culminating in the derivation of the Half-Existent Twisted Liminal Ontoform (TLO). The remainder of TF in the broader repository *indirectly* builds upon, and *around*, this axiomatic basis, elaborating its phenomenological, philosophical, and comparative implications.
+The Transimmanent Framework (TF) is non-foundationally and meta-ontologically axiomatized in the paper **"[Before Form, Beyond Nothingness: A Transimmanent Meta-Ontology of Distinction, Limitation, and Experience](architecture-of-being/00-before-form-beyond-nothingness.md)"**.
+
+This primary document establishes the minimal necessary structural conditions for stable, non-foundational existence. It begins from the conceptual limit of **Absolute Unpredicateness (AU)** and derives the **Half-Existent Twisting Liminal Ontoform (TLO)** – characterized by an intrinsic **Twisted Nuance (TN)** and mediated by **The Gap (`—`)** – as the necessary resolution of a **Primordial Paradox** between AU and the possibility of Definition.
+
+The extensive supporting appendices, elaborating its mathematical, philosophical, and experiential implications, are organized thematically. The broader conceptual explorations in the repository build upon and contextualize this core meta-ontological architecture.
 
 ## Core Principles (The "What")
 
