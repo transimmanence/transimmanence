@@ -1192,6 +1192,12 @@ The project of Gapology is also the project of becoming self-aware *of one's own
 
 ---
 
+## Appendix AF: A Meta-Theoretic Transposition of TF into Type Theory
+
+[TF's appendix on MLTT](af-tf-to-mltt.md) aims to render a more formal blueprint of the Twisting Liminal Ontoform, modeling both its stable, operational logic and the meta-theoretic "phase transition" that constitutes its ontogenesis.
+
+---
+
 ## Appendix CS: The Mirror Reflecting the Architecture – Phenomenological Resonances Between MHV and TF's Meta-Ontology
 
 While TF's architecture is derived from abstract principles of structural necessity, its claims find echoes in the phenomenological insights of contemplative traditions.
